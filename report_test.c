@@ -1,5 +1,6 @@
 #incldue <stdio.h>
 
 int main(){
-	print("hello world!");
+	print("hello world!\n");
+	print("good\n"
 }
